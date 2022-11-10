@@ -23,6 +23,8 @@ added new SHOP logic
 
 check source code
 
+* client: [Download](https://disk.yandex.ru/d/LlFROL3rWugEOw)
+
 # Icon Source
 ![App Screenshot](https://cdn.discordapp.com/attachments/1040237131693563916/1040241673529217094/18_202211101640251.png)
 
