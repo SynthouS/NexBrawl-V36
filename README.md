@@ -31,6 +31,6 @@ check source code
 # Authors
 
 [@Synth](https://github.com/Synthous)
-[@CandyStudio](https://t.me/candystudio)
+[@ПонStudio](https://t.me/PonStudio)
 
 
